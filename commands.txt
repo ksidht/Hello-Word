@@ -1,0 +1,13 @@
+git init (Make local folder  to local repository)
+git remote add origin "link"
+git remote -v (cheking for any repo has already added)
+git remote remove origin (for remove remote repo(cloud repo))
+git status (check for untracked file or unstage )
+git add "filename" (ready file for commit or make them tracked or stage)
+git add --all (ready all file for commit or make them tracked or stage)
+git add . (ready all file for commit or make them tracked or stage)
+git rm --cached "filename" (make file unstage or untracked)
+.gitignore
+git config --global user.name "usename"
+git config -- gobal user.email "email"
+git commit -m
