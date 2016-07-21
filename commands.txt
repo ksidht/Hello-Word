@@ -11,3 +11,5 @@ git rm --cached "filename" (make file unstage or untracked)
 git config --global user.name "usename"
 git config -- gobal user.email "email"
 git commit -m
+git branch
+git branch -b
